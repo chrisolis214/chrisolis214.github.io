@@ -13,13 +13,14 @@
 }
 
 .mainbackground {
-  background-color:rgb(44,208,18);
+  background-color:yellow;
 }
 
 .customjumbotron {
-  background-color:black;
-  color:white;
+  background-color:white;
+  color:rgb(39,181,20);
   margin-bottom:0;
+  font-family:courier;
 }
 
 .navbar-inverse {
